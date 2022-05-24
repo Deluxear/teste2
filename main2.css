@@ -1,0 +1,62 @@
+nav {
+    width: 100%;
+    padding: 15px 0;
+    background-color: aliceblue;
+    font-family: 'Praise', cursive;
+}
+
+p {
+    color: rgb(197, 177, 169);
+    font-size: 20px;
+    text-align: justify;
+    width: 50%;
+    font-family: 'Praise', cursive;
+}
+
+h1,
+h2 {
+    color: rgb(228, 224, 245);
+    font-size: 30px;
+}
+
+.fotos {
+    height: 640px;
+    width: 820px;
+    float: right;
+}
+
+
+/***     <section class="gatos">
+            <div class="content">
+                <p class="titulo">Gatos dos meses passados HEHE =)</p>
+                <div class="slides">
+                    <input type="radio" name="slide" id="slide1" checked>
+                    <input type="radio" name="slide" id="slide2">
+                    <input type="radio" name="slide" id="slide3">
+                    <input type="radio" name="slide" id="slide4">
+                    <input type="radio" name="slide" id="slide5">
+                    <input type="radio" name="slide" id="slide6">
+                    <div class="slide s1">
+                        <img src="/Gatos do mês/Primeiro mês.png" alt="imagem1">
+                    </div>
+                    <div class="slide">
+                        <img src="./Gatos do mês/segundo mês.png" alt="imagem2">
+                    </div>
+                    <div class="slide">
+                        <img src="./Gatos do mês/terceiro mês.2.png" alt="imagem3">
+                    </div>
+                    <div class="slide">
+                        <img src="./Gatos do mês/quarto mês.png" alt="imagem4">
+                    </div>
+                    <div class="slide">
+                        <img src="./Gatos do mês/quinto mês.png" alt="imagem5">
+                    </div>
+                    <div class="navigation">
+                        <label class="bar" for="slide1"></label>
+                        <label class="bar" for="slide2"></label>
+                        <label class="bar" for="slide3"></label>
+                        <label class="bar" for="slide4"></label>
+                        <label class="bar" for="slide5"></label>
+                    </div>
+                </div>
+            </div>
